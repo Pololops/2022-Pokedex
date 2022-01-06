@@ -8,7 +8,7 @@
 require(`dotenv`).config();
 
 // Charger le dataMapper
-const dataMapper = require(`../app/dataMapper`);
+const dataMapper = require(`../app/data.mapper`);
 
 // Charger le connecteur à la database
 const client = require(`../app/database`);
@@ -16,7 +16,7 @@ const client = require(`../app/database`);
 
 
 // Méthode à tester  :  à changer pour tester les autres méthodes du dataMapper
-dataMapper.getAllLanguages()
+dataMapper.getCards()
     .then((results) => console.log(`\n\n\n\n🟢 RESULTS: `, results))
     .catch((error) => console.log(`\n\n\n\n🔴 ERROR: `, error))
     .finally(() => client.end());

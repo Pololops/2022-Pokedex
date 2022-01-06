@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+html {
+    --bg-base-color: #c14040;
+    --bg-nav-color: #efe3e3;
+    --bg-card-color: #982c2c;
+}
+
+body {
+    color: white;
+    background-color: var(--bg-base-color);
+    padding: 10px 15px;
+    font-family: 'Bree Serif', serif;
+}
+
+nav {
+    background-color: var(--bg-nav-color);
+    border-radius: 20px;
+    padding: 0 25px 0 15px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+nav a {
+    color: var(--bg-base-color);
+    text-decoration: none;
+    line-height: 3.5rem;
+    display: block;
+    padding: 0 10px 0 10px;
+}
+
+nav a:hover {
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    font-size: 1.8rem;
+}
+
+h2 {
+    font-size: 1.3rem;
+    line-height: 2rem;
+}
+
+.cards-list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.card {
+    color: white;
+    display: block;
+    background-color: var(--bg-card-color);
+    border-radius: 20px;
+    text-align: center;
+    padding: 15px;
+    max-width: 33%;
+    text-decoration: none;
+    box-shadow: 0 0 3px black;
+    transition: 0.2s;
+}
+
+.card:hover {
+    box-shadow: 0 3px 20px black;
+    transform: rotate(-3deg);
+}
+
+.card img {
+    width: 100%;
+}

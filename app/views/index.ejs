@@ -1,0 +1,14 @@
+<%- include('./partials/header'); %>
+    <div>
+        <div class="cards-list">
+            <% if (locals.cards) { %>
+                <% for (const card of cards) { %>
+                    <a class="card" href="/detail/<%= card.id %>">
+                        <img src="/img/<%= card.numero %>.png" alt="Image de <%= card.nom %>">
+                        <h2>#<%= card.numero %> <%= card.nom %></h2>
+                    </a>
+                <% } %>
+            <% } %>
+        </div>
+    </main>
+<%- include('./partials/footer'); %>
