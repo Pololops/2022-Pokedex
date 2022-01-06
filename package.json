@@ -1,0 +1,32 @@
+{
+  "name": "pokedex-polo",
+  "version": "1.0.0",
+  "description": "\"Un répertoire de cartes Pokemon\"",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node-dev app.js --no-notify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Zagreus/S04E10-pokedex-Pololops.git"
+  },
+  "keywords": [
+    "pokemon",
+    "pokedex"
+  ],
+  "author": "Polo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/O-clock-Zagreus/S04E10-pokedex-Pololops/issues"
+  },
+  "homepage": "https://github.com/O-clock-Zagreus/S04E10-pokedex-Pololops#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "node-dev": "^7.1.0",
+    "pg": "^8.7.1"
+  }
+}
