@@ -4,7 +4,15 @@
 
 /*  ############################################################################# */
 //! #################### SQL QUERY A MODIFIER POUR LA TESTER ####################
-const sql = `SELECT * FROM "language";`;
+const sql = `SELECT  
+pokemon.*,
+(
+    SELECT type.* FROM pokemon
+    JOIN  type ON type.id = pokemon_type.type_id
+) AS types
+FROM pokemon
+JOIN pokemon_type ON pokemon.numero = pokemon_type.pokemon_numero 
+WHERE pokemon.id = 1210;`;
 /*  ############################################################################# */
 
 

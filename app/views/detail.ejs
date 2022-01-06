@@ -1,10 +1,35 @@
 <%- include('./partials/header'); %>
-    <div>
-        <div class="cards-list">
-            <a class="card" href="#">
-                <img src="/img/<%= card.numero %>.png" alt="Image de <%= card.nom %>">
-                <h2>#<%= card.numero %> <%= card.nom %></h2>
-            </a>
+    <main>
+        <div class="detail">
+            <h2>Détail de <%= nom %></h2>
+            <div class="card-detail">
+                <img src="/img/<%= numero %>.png" alt="Image de <%= nom %>">
+                <div>
+                    <h3>#<%= numero %> <%= nom %></h3>
+                    <% if (locals.types) { %>
+                        <ul>
+                        <% for(const type of types) { %>
+                            <li><a class="tag" style="background-color: #<%= type.color %>" href="/type/<%= type.id %>"><%= type.name %></a></li>
+                        <% } %>
+                        </ul>
+                    <% } %>
+                    <h4>Statistiques</h4>
+                    <table>
+                        <% for(let i = 0; i < capacities.length; i++) { %>
+                            <tr>
+                                <td><%= capacities[i].title %></td>
+                                <td><%= capacities[i].capacity %></td>
+                                <td class="barometer">
+                                    <div class="max-level">
+                                        <div class="level" style="width: <%= capacities[i].capacity * 100 / 255 %>%"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        <% } %>
+                    </table>
+                </div>
+            </div>
         </div>
+        <a href="/">Revenir à la liste</a>
     </main>
 <%- include('./partials/footer'); %>

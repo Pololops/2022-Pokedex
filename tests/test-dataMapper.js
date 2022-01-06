@@ -16,7 +16,7 @@ const client = require(`../app/database`);
 
 
 // Méthode à tester  :  à changer pour tester les autres méthodes du dataMapper
-dataMapper.getCards()
-    .then((results) => console.log(`\n\n\n\n🟢 RESULTS: `, results))
+dataMapper.getCardsByType(1)
+    .then((results) => console.log(`\n\n\n\n🟢 RESULTS: `, results.length))
     .catch((error) => console.log(`\n\n\n\n🔴 ERROR: `, error))
     .finally(() => client.end());
