@@ -1,0 +1,33 @@
+<%- include('./partials/header'); %>
+    <main>
+        <div class="detail">
+            <h2>Détail de <%= card.name %></h2>
+            <div class="card-detail">
+                <img src="<%= card.img %>" alt="Image de <%= card.name %>">
+                <div>
+                    <h3>#<%= card.id %> <%= card.name %></h3>
+                        <ul>
+                        <% for(const type of card.type) { %>
+                            <li><a class="tag"><%= type %></a></li>
+                        <% } %>
+                        </ul>
+                    <h4>Statistiques</h4>
+                    <table>
+                        <% for(let i = 0; i < card.weaknesses.length; i++) { %>
+                            <tr>
+                                <td><%= card.weaknesses[i].title %></td>
+                                <td><%= card.weaknesses[i].capacity %></td>
+                                <td class="barometer">
+                                    <div class="max-level">
+                                        <div class="level" style="width: <%= card.weaknesses[i].capacity * 100 / 255 %>%"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        <% } %>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <a href="/">Revenir à la liste</a>
+    </main>
+<%- include('./partials/footer'); %>

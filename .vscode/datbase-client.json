@@ -1,0 +1,44 @@
+{
+    "nosql.connections": {
+        "1644507191683": {
+            "host": "localhost",
+            "dbPath": "",
+            "port": 27017,
+            "user": "Pololops",
+            "authType": "default",
+            "password": "agathe071178",
+            "encoding": "utf8",
+            "clientKeyPath": null,
+            "clientCertPath": null,
+            "caPath": null,
+            "database": null,
+            "useSSL": false,
+            "usingSSH": false,
+            "showHidden": false,
+            "includeDatabases": null,
+            "dbType": "MongoDB",
+            "encrypt": true,
+            "isCluster": false,
+            "connectionUrl": "",
+            "srv": false,
+            "esAuth": "none",
+            "global": false,
+            "key": "1644507191683",
+            "timezone": "+00:00",
+            "ssh": {
+                "host": "",
+                "privateKeyPath": "/home/student/.ssh/id_rsa",
+                "port": 22,
+                "username": "root",
+                "type": "password",
+                "connectTimeout": 10000,
+                "algorithms": {
+                    "cipher": []
+                }
+            },
+            "connectionKey": "nosql.connections",
+            "name": "MongoDB",
+            "useConnectionString": false
+        }
+    }
+}
