@@ -24,7 +24,7 @@ const mainController = {
             res.status(500).send(`Oops ! Base de donnée inaccessible.`);
         }
     },
-
+/*
     types: async (request, response) => {
         try {
             const types = await dataMapper.getTypes();
@@ -46,6 +46,7 @@ const mainController = {
             response.status(500).send(`Oops ! Base de donnée inaccessible.`);
         }
     },
+*/
 }
 
 module.exports = mainController;

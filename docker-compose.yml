@@ -1,0 +1,29 @@
+version: "2"
+services:
+  database:
+    container_name: "mongo"
+    image: "mongo:latest"
+    restart: always
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_INITDB_DATABASE=pokemon
+      - MONGO_INITDB_ROOT_USERNAME=root
+      - MONGO_INITDB_ROOT_PASSWORD=root_password
+    volumes:
+      - ./data/data.json:/docker-entrypoint-initdb.d/data.json:ro
+    command: mongoimport --host=database --db=pokemon --collection=pokedex --type=json --file=/docker-entrypoint-initdb.d/data.json
+
+  app:
+    container_name: "app"
+    build: .
+    depends_on:
+      - "database"
+    links:
+      - "database"
+    ports:
+      - "3000:3000"
+    environment: 
+      - PORT=3000
+      - URL_MONGO=mongodb://database:27017/pokemon
+    restart: on-failure
