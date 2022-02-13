@@ -1,4 +1,4 @@
-const dataMapper = require(`../data.mapper`);
+const dataMapper = require(`../dataMapper`);
 
 const mainController = {
     home: async (request, response) => {
