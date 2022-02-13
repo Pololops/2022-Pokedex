@@ -4,7 +4,6 @@ const express = require(`express`);
 const router = require(`./app/router`);
 const session = require(`express-session`);
 const app = express();
-const PORT = process.env.PORT || 8000;
 
 app.set(`view engine`, `ejs`);
 app.set(`views`, `./app/views`);
@@ -23,4 +22,5 @@ app.use(session({
 
 app.use(router);
 
+const PORT = process.env.PORT || 8000;
 app.listen(PORT, () => console.log(`Listening on : ${PORT}`));

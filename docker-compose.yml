@@ -1,0 +1,30 @@
+version: "3.8"
+services:
+  app:
+    container_name: "app"
+    build: .
+    environment:
+      - PORT=8000
+      - PGURL=postgresql://pokemon_admin:12345@postgres:5432/pokemon
+    ports:
+      - "8000:8000"
+    expose:
+      - "8000"
+    links:
+      - "database"
+    depends_on:
+      - "database"
+    restart: on-failure
+
+  database:
+    container_name: "postgres"
+    image: "postgres:alpine"
+    environment:
+      - POSTGRES_USER=pokemon_admin
+      - POSTGRES_PASSWORD=12345
+      - POSTGRES_DB=pokemon
+    volumes:
+      - ./data:/docker-entrypoint-initdb.d/
+    ports:
+      - "5432:5432"
+    restart: always
