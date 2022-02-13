@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   app:
-    container_name: "app"
+    container_name: "app-mongo"
     build: .
     environment:
       - URL_MONGO=mongodb://mongo:27017/pokemon
@@ -10,8 +10,6 @@ services:
     expose:
       - "8000"
     links:
-      - "database"
-    depends_on:
       - "database"
     restart: on-failure
 
@@ -28,6 +26,4 @@ services:
     volumes:
       - ./data:/docker-entrypoint-initdb.d/
     links:
-      - "database"
-    depends_on:
       - "database"
