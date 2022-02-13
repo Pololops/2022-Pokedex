@@ -5,7 +5,7 @@ const Pokemon = require('../models/Pokemon');
 const mainController = {
     home: async (req, res) => {
         try {      
-            const pokemons = await Pokemon.find();
+            const pokemons = await Pokemon.find().sort({"id":1});
 
             res.render('index', {cards: pokemons});
         } catch (error) {

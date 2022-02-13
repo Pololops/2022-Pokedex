@@ -1,4 +1,4 @@
-[
+
     {
         "_id": {
             "$oid": "58f56170ee9d4bd5e610d644"
@@ -38,7 +38,7 @@
                 "name": "Venusaur"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d645"
@@ -81,7 +81,7 @@
                 "name": "Venusaur"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d646"
@@ -118,7 +118,7 @@
                 "name": "Ivysaur"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d647"
@@ -156,7 +156,7 @@
                 "name": "Charizard"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d648"
@@ -196,7 +196,7 @@
                 "name": "Charizard"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d649"
@@ -232,7 +232,7 @@
                 "name": "Charmeleon"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d64a"
@@ -269,7 +269,7 @@
                 "name": "Blastoise"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d64b"
@@ -308,7 +308,7 @@
                 "name": "Blastoise"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d64c"
@@ -342,7 +342,7 @@
                 "name": "Wartortle"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d64d"
@@ -380,7 +380,7 @@
                 "name": "Butterfree"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d64e"
@@ -421,7 +421,7 @@
                 "name": "Butterfree"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d64f"
@@ -459,7 +459,7 @@
                 "name": "Metapod"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d650"
@@ -500,7 +500,7 @@
                 "name": "Beedrill"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d651"
@@ -543,7 +543,7 @@
                 "name": "Beedrill"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d652"
@@ -580,7 +580,7 @@
                 "name": "Kakuna"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d653"
@@ -619,7 +619,7 @@
                 "name": "Pidgeot"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d654"
@@ -659,7 +659,7 @@
                 "name": "Pidgeot"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d655"
@@ -694,7 +694,7 @@
                 "name": "Pidgeotto"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d656"
@@ -727,7 +727,7 @@
                 "name": "Raticate"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d657"
@@ -756,7 +756,7 @@
                 "name": "Rattata"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d658"
@@ -791,7 +791,7 @@
                 "name": "Fearow"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d659"
@@ -822,7 +822,7 @@
                 "name": "Spearow"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d65a"
@@ -856,7 +856,7 @@
                 "name": "Arbok"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d65b"
@@ -886,7 +886,7 @@
                 "name": "Ekans"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d65c"
@@ -918,7 +918,7 @@
                 "name": "Raichu"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d65d"
@@ -947,7 +947,7 @@
                 "name": "Pikachu"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d65e"
@@ -981,7 +981,7 @@
                 "name": "Sandslash"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d65f"
@@ -1012,7 +1012,7 @@
                 "name": "Sandshrew"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d660"
@@ -1050,7 +1050,7 @@
                 "name": "Nidoqueen"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d661"
@@ -1090,7 +1090,7 @@
                 "name": "Nidoqueen"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d662"
@@ -1127,7 +1127,7 @@
                 "name": "Nidorina"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d663"
@@ -1165,7 +1165,7 @@
                 "name": "Nidoking"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d664"
@@ -1204,7 +1204,7 @@
                 "name": "Nidoking"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d665"
@@ -1241,7 +1241,7 @@
                 "name": "Nidorino"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d666"
@@ -1274,7 +1274,7 @@
                 "name": "Clefable"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d667"
@@ -1303,7 +1303,7 @@
                 "name": "Clefairy"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d668"
@@ -1338,7 +1338,7 @@
                 "name": "Ninetales"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d669"
@@ -1369,7 +1369,7 @@
                 "name": "Vulpix"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d66a"
@@ -1401,7 +1401,7 @@
                 "name": "Wigglytuff"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d66b"
@@ -1430,7 +1430,7 @@
                 "name": "Jigglypuff"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d66c"
@@ -1467,7 +1467,7 @@
                 "name": "Golbat"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d66d"
@@ -1500,7 +1500,7 @@
                 "name": "Zubat"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d66e"
@@ -1540,7 +1540,7 @@
                 "name": "Vileplume"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d66f"
@@ -1582,7 +1582,7 @@
                 "name": "Vileplume"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d670"
@@ -1619,7 +1619,7 @@
                 "name": "Gloom"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d671"
@@ -1657,7 +1657,7 @@
                 "name": "Parasect"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d672"
@@ -1692,7 +1692,7 @@
                 "name": "Paras"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d673"
@@ -1729,7 +1729,7 @@
                 "name": "Venomoth"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d674"
@@ -1762,7 +1762,7 @@
                 "name": "Venonat"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d675"
@@ -1796,7 +1796,7 @@
                 "name": "Dugtrio"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d676"
@@ -1827,7 +1827,7 @@
                 "name": "Diglett"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d677"
@@ -1859,7 +1859,7 @@
                 "name": "Persian"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d678"
@@ -1888,7 +1888,7 @@
                 "name": "Meowth"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d679"
@@ -1921,7 +1921,7 @@
                 "name": "Golduck"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d67a"
@@ -1951,7 +1951,7 @@
                 "name": "Psyduck"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d67b"
@@ -1986,7 +1986,7 @@
                 "name": "Primeape"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d67c"
@@ -2017,7 +2017,7 @@
                 "name": "Mankey"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d67d"
@@ -2052,7 +2052,7 @@
                 "name": "Arcanine"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d67e"
@@ -2083,7 +2083,7 @@
                 "name": "Growlithe"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d67f"
@@ -2121,7 +2121,7 @@
                 "name": "Poliwrath"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d680"
@@ -2160,7 +2160,7 @@
                 "name": "Poliwrath"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d681"
@@ -2198,7 +2198,7 @@
                 "name": "Poliwhirl"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d682"
@@ -2237,7 +2237,7 @@
                 "name": "Alakazam"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d683"
@@ -2277,7 +2277,7 @@
                 "name": "Alakazam"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d684"
@@ -2312,7 +2312,7 @@
                 "name": "Kadabra"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d685"
@@ -2351,7 +2351,7 @@
                 "name": "Machamp"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d686"
@@ -2391,7 +2391,7 @@
                 "name": "Machamp"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d687"
@@ -2426,7 +2426,7 @@
                 "name": "Machoke"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d688"
@@ -2466,7 +2466,7 @@
                 "name": "Victreebel"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d689"
@@ -2508,7 +2508,7 @@
                 "name": "Victreebel"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d68a"
@@ -2545,7 +2545,7 @@
                 "name": "Weepinbell"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d68b"
@@ -2580,7 +2580,7 @@
                 "name": "Tentacruel"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d68c"
@@ -2612,7 +2612,7 @@
                 "name": "Tentacool"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d68d"
@@ -2655,7 +2655,7 @@
                 "name": "Golem"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d68e"
@@ -2700,7 +2700,7 @@
                 "name": "Golem"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d68f"
@@ -2739,7 +2739,7 @@
                 "name": "Graveler"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d690"
@@ -2774,7 +2774,7 @@
                 "name": "Rapidash"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d691"
@@ -2805,7 +2805,7 @@
                 "name": "Ponyta"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d692"
@@ -2842,7 +2842,7 @@
                 "name": "Slowbro"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d693"
@@ -2876,7 +2876,7 @@
                 "name": "Slowpoke"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d694"
@@ -2911,7 +2911,7 @@
                 "name": "Magneton"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d695"
@@ -2942,7 +2942,7 @@
                 "name": "Magnemite"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d696"
@@ -2967,7 +2967,7 @@
             "Electric",
             "Rock"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d697"
@@ -3002,7 +3002,7 @@
                 "name": "Dodrio"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d698"
@@ -3033,7 +3033,7 @@
                 "name": "Doduo"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d699"
@@ -3067,7 +3067,7 @@
                 "name": "Dewgong"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d69a"
@@ -3100,7 +3100,7 @@
                 "name": "Seel"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d69b"
@@ -3133,7 +3133,7 @@
                 "name": "Muk"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d69c"
@@ -3163,7 +3163,7 @@
                 "name": "Grimer"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d69d"
@@ -3196,7 +3196,7 @@
                 "name": "Cloyster"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d69e"
@@ -3229,7 +3229,7 @@
                 "name": "Shellder"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d69f"
@@ -3269,7 +3269,7 @@
                 "name": "Gengar"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6a0"
@@ -3312,7 +3312,7 @@
                 "name": "Gengar"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6a1"
@@ -3349,7 +3349,7 @@
                 "name": "Haunter"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6a2"
@@ -3378,7 +3378,7 @@
             "Ground",
             "Steel"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6a3"
@@ -3413,7 +3413,7 @@
                 "name": "Hypno"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6a4"
@@ -3444,7 +3444,7 @@
                 "name": "Drowzee"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6a5"
@@ -3478,7 +3478,7 @@
                 "name": "Kingler"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6a6"
@@ -3508,7 +3508,7 @@
                 "name": "Krabby"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6a7"
@@ -3541,7 +3541,7 @@
                 "name": "Electrode"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6a8"
@@ -3570,7 +3570,7 @@
                 "name": "Voltorb"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6a9"
@@ -3610,7 +3610,7 @@
                 "name": "Exeggutor"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6aa"
@@ -3646,7 +3646,7 @@
                 "name": "Exeggcute"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6ab"
@@ -3680,7 +3680,7 @@
                 "name": "Marowak"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6ac"
@@ -3711,7 +3711,7 @@
                 "name": "Cubone"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6ad"
@@ -3736,7 +3736,7 @@
             "Psychic",
             "Fairy"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6ae"
@@ -3761,7 +3761,7 @@
             "Psychic",
             "Fairy"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6af"
@@ -3784,7 +3784,7 @@
         "weaknesses": [
             "Fighting"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6b0"
@@ -3817,7 +3817,7 @@
                 "name": "Weezing"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6b1"
@@ -3847,7 +3847,7 @@
                 "name": "Koffing"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6b2"
@@ -3885,7 +3885,7 @@
                 "name": "Rhydon"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6b3"
@@ -3920,7 +3920,7 @@
                 "name": "Rhyhorn"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6b4"
@@ -3943,7 +3943,7 @@
         "weaknesses": [
             "Fighting"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6b5"
@@ -3970,7 +3970,7 @@
             "Flying",
             "Bug"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6b6"
@@ -3993,7 +3993,7 @@
         "weaknesses": [
             "Fighting"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6b7"
@@ -4026,7 +4026,7 @@
                 "name": "Seadra"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6b8"
@@ -4056,7 +4056,7 @@
                 "name": "Horsea"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6b9"
@@ -4090,7 +4090,7 @@
                 "name": "Seaking"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6ba"
@@ -4120,7 +4120,7 @@
                 "name": "Goldeen"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6bb"
@@ -4154,7 +4154,7 @@
                 "name": "Starmie"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6bc"
@@ -4188,7 +4188,7 @@
                 "name": "Staryu"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6bd"
@@ -4213,7 +4213,7 @@
             "Ghost",
             "Dark"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6be"
@@ -4241,7 +4241,7 @@
             "Flying",
             "Rock"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6bf"
@@ -4270,7 +4270,7 @@
             "Dark",
             "Steel"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6c0"
@@ -4293,7 +4293,7 @@
         "weaknesses": [
             "Ground"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6c1"
@@ -4318,7 +4318,7 @@
             "Ground",
             "Rock"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6c2"
@@ -4343,7 +4343,7 @@
             "Flying",
             "Rock"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6c3"
@@ -4366,7 +4366,7 @@
         "weaknesses": [
             "Fighting"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6c4"
@@ -4400,7 +4400,7 @@
                 "name": "Gyarados"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6c5"
@@ -4431,7 +4431,7 @@
                 "name": "Magikarp"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6c6"
@@ -4458,7 +4458,7 @@
             "Fighting",
             "Rock"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6c7"
@@ -4481,7 +4481,7 @@
         "weaknesses": [
             "Fighting"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6c8"
@@ -4522,7 +4522,7 @@
                 "name": "Flareon"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6c9"
@@ -4552,7 +4552,7 @@
                 "name": "Eevee"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6ca"
@@ -4581,7 +4581,7 @@
                 "name": "Eevee"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6cb"
@@ -4612,7 +4612,7 @@
                 "name": "Eevee"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6cc"
@@ -4635,7 +4635,7 @@
         "weaknesses": [
             "Fighting"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6cd"
@@ -4671,7 +4671,7 @@
                 "name": "Omastar"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6ce"
@@ -4704,7 +4704,7 @@
                 "name": "Omanyte"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6cf"
@@ -4741,7 +4741,7 @@
                 "name": "Kabutops"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6d0"
@@ -4774,7 +4774,7 @@
                 "name": "Kabuto"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6d1"
@@ -4802,7 +4802,7 @@
             "Rock",
             "Steel"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6d2"
@@ -4825,7 +4825,7 @@
         "weaknesses": [
             "Fighting"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6d3"
@@ -4852,7 +4852,7 @@
             "Rock",
             "Steel"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6d4"
@@ -4877,7 +4877,7 @@
             "Ice",
             "Rock"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6d5"
@@ -4903,7 +4903,7 @@
             "Electric",
             "Rock"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6d6"
@@ -4942,7 +4942,7 @@
                 "name": "Dragonite"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6d7"
@@ -4982,7 +4982,7 @@
                 "name": "Dragonite"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6d8"
@@ -5019,7 +5019,7 @@
                 "name": "Dragonair"
             }
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6d9"
@@ -5044,7 +5044,7 @@
             "Ghost",
             "Dark"
         ]
-    },
+    }
     {
         "_id": {
             "$oid": "58f56171ee9d4bd5e610d6da"
@@ -5070,4 +5070,3 @@
             "Dark"
         ]
     }
-]
