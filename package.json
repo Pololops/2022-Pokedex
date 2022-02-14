@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node index.js",
-    "test": "node-dev index.js --no-notify"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -25,7 +25,6 @@
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
     "express": "^4.17.2",
-    "node-dev": "^7.1.0",
     "pg": "^8.7.1"
   }
 }
